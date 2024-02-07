@@ -21,7 +21,11 @@
 
 -   **Monday:** Question bank delivery & identification of weaker topics
 -   **Tuesday:** Java Mind Map & P2P Mock Interviews
+    -  [Java 1 - Mind Map](https://miro.com/welcomeonboard/emwwTEt3REFuZFpUWUVndFY1ZWRLcHE3bzVJaVlsTU1DRVM0NkpoSGh4dGs2MnpIUmxlMEpMdDBqSDgyT244RHwzNDU4NzY0NTU5MTAxNjUwOTY2fDI=?share_link_id=773878705288)
+    -  [Java 2 - Mind Map](https://miro.com/welcomeonboard/NE9NSWtvTGdpeHhqSXV5bzA4SnZTaVhGMURTR3ZNUXZvN29TTk9OcEN4Z2xLTFA1SjRSeXZabW5wRG15TkFUbnwzNDU4NzY0NTU5MTAxNjUwOTY2fDI=?share_link_id=301209048785)
 -   **Wednesday:** SQL Mind Map & P2P Mock Interviews
+    -   [SQL 1 - Mind Map](https://miro.com/welcomeonboard/RWNMUEd2bWVkbGxRdHp2MnJHUTRNSDVLWXN4MVBKb2VuaXNPbTBZTDVIYU9HbWNJVndZNVV2a1dXQ2Q2QmtYMHwzNDU4NzY0NTM0Njg0ODYwMjI5fDI=?share_link_id=95136095152)
+    -   [SQL 2 - Mind Map](https://miro.com/app/board/uXjVNvnzB5s=/)
 -   **Thursday:** Spring Mind Map & P2P Mock Interviews
 -   **Friday:** Hibernate and Angular Mind Maps & P2P Mock Interviews
 
@@ -48,6 +52,7 @@
 -   Give each individual roughly 20-25 minutes for the interview
 -   Provide Feedback, either after each question or the entire interview.
 -   Record the feedback in the template per question
+-   Email written feedback to partner & `charles.jester@revature.com`
 
 
 
