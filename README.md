@@ -27,8 +27,8 @@
     -   [SQL 1 - Mind Map](https://miro.com/welcomeonboard/RWNMUEd2bWVkbGxRdHp2MnJHUTRNSDVLWXN4MVBKb2VuaXNPbTBZTDVIYU9HbWNJVndZNVV2a1dXQ2Q2QmtYMHwzNDU4NzY0NTM0Njg0ODYwMjI5fDI=?share_link_id=95136095152)
     -   [SQL 2 - Mind Map](https://miro.com/app/board/uXjVNvnzB5s=/)
 -   **Thursday:** Spring Mind Map & P2P Mock Interviews
-    -   [Spring 1 - Mind Map]()
-    -   [Spring 2 - Mind Map]()
+    -   [Spring 1 - Mind Map](https://miro.com/app/board/uXjVNvGuFY4=/)
+    -   [Spring 2 - Mind Map](https://miro.com/app/board/uXjVNvG1xjk=/)
 -   **Friday:** Hibernate and Angular Mind Maps & P2P Mock Interviews
     -   [Hibernate & Angular 1 - Mind Map]()
     -   [Hibernate & Angular 2 - Mind Map]()
